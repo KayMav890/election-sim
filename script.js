@@ -1,4 +1,4 @@
-const GROQ_API_KEY = "PASTE_YOUR_API_KEY_HERE";
+const GROQ_API_KEY = "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";
 
 let popularity = 50;
 
